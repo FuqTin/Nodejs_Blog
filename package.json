@@ -1,0 +1,30 @@
+{
+  "name": "blog-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuqTin/Nodejs_Blog.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Blog"
+  ],
+  "author": "Tiz Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuqTin/Nodejs_Blog/issues"
+  },
+  "homepage": "https://github.com/FuqTin/Nodejs_Blog#readme",
+  "dependencies": {
+    "express": "^3.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
